@@ -4,11 +4,11 @@ This is a restaurant ordering app made as my portfolio.
 
 # Features:
 
-+User registration and login
-+Mobile and Desktop layout
-+Mock checkout (no actual payment is processed)
-+Cart system
-+Backend that provides mock data (restaurant, food, orders, reviews), made using Supabase
+- User registration and login
+- Mobile and Desktop layout
+- Mock checkout (no actual payment is processed)
+- Cart system
+- Backend that provides mock data (restaurant, food, orders, reviews), made using Supabase
 
 # How to use
 
